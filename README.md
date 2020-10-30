@@ -1,4 +1,4 @@
-### Hello! My name is [Shreyas](shreyasbarve.github.io) 👋
+### Hello! My name is [Shreyas](https://shreyasbarve.github.io/) 👋
 
 ## I am a student at Shri Ramdeobaba College of Engineering and Management, Nagpur, India
 
