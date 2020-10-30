@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on my future
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate on React projects and any new idea that anyone want to implement
-- 💬 Ask me about React, Material UI, Python, Java, HTML, CSS, JS 
+- 💬 Ask me about React, Material UI, Python, Java, HTML, CSS, JS and Japanese 😉
 - 🥅 Everyday Goal: Become a better person than before
-- ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing. I am also learning <b>Japanese</b>
+- ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing. I am also learning Japanese
 - 🥇 Achievement: I was the topper in `Introduction to Japanese Language and Culture` exam hosted by NPTEL(IIT Kanpur) held in NOV-19
 - 💻 Projects:
   - [O(1) Coding club website](https://o1codingclub.netlify.app/)
