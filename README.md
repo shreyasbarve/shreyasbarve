@@ -1,6 +1,3 @@
-<!--
-**shreyasbarve/shreyasbarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 ### Hello! My name is [Shreyas](shreyasbarve.github.io) 👋
 
 ## I am a student at Shri Ramdeobaba College of Engineering and Management, Nagpur, India
@@ -10,7 +7,7 @@
 - 👯 I’m looking to collaborate on React projects and any new idea that anyone want to implement
 - 💬 Ask me about React, Material UI, Python, Java, HTML, CSS, JS 
 - 🥅 Everyday Goal: Become a better person than before
-- ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing
+- ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing. I am also learning <b>Japanese</b>
 
 ### Connect with me:
 
@@ -36,6 +33,8 @@
 <img align="left" alt="Mongo DB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
