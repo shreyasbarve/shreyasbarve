@@ -18,6 +18,7 @@
 [<img align="left" alt="shreyasbarve | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreyasbarve.github.io/)
 [<img align="left" alt="shreyas-barve-153a5b192 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shreyas-barve-153a5b192/)
 [<img align="left" alt="shreyasbarve | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/shreyasbarve)
+[<img align="left" alt="shreyasbarve | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shreyasbarve4)
 
 <br />
 
