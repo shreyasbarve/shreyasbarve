@@ -2,24 +2,22 @@
 
 ## I am a student at Shri Ramdeobaba College of Engineering and Management, Nagpur, India
 
-- 🔭 I’m currently working on my future
-- 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking to collaborate on React projects and any new idea that anyone want to implement
-- 💬 Ask me about React, Material UI, Python, Java, HTML, CSS, JS and Japanese 😉
-- 🥅 Everyday Goal: Become a better person than before
-- ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing, Gaming. I am also learning Japanese.
-- 🥇 Achievement: I was the topper in `Introduction to Japanese Language and Culture` exam hosted by NPTEL(IIT Kanpur) held in NOV-19
+- 🔭 I’m currently working on my dream.
+- 🌱 I’m currently learning everything I can 🤣.
+- 👯 I’m looking to collaborate on any interesting project and any new idea that anyone wants to implement.
+- 💬 Ask me about React, React Native, Python, Java, HTML, CSS, JS and Japanese 😉.
+- 🥅 Everyday Goal: Become a better person than before.
+- ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing, Gaming. I am also learning Japanese and like to explore new cultures.
+- 🥇 Achievement: I was the topper in `Introduction to Japanese Language and Culture` exam hosted by NPTEL(IIT Kanpur) held in NOV-19.
 - 💻 Projects:
-  - [O(1) Coding club website](https://o1codingclub.netlify.app/)
+  - [Disease Predictor](https://diseasepredictor.netlify.app//)
   - [Classroom System](https://learnzillaedu.netlify.app/)
 
 ### Connect with me:
 
-[<img align="left" alt="shreyasbarve | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreyasbarve.github.io/)
-[<img align="left" alt="shreyas-barve-153a5b192 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shreyas-barve-153a5b192/)
-[<img align="left" alt="shreyasbarve | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/shreyasbarve)
-[<img align="left" alt="shreyasbarve | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shreyasbarve4)
-
+<a href="https://shreyasbarve.github.io/"><img src="https://img.shields.io/badge/WEBSITE-%230077B5.svg?&style=for-the-badge&color=blueviolet&logo=aiohttp&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/shreyasbarve13"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&color=blue&logo=linkedin&logoColor=white" height=30></a>
+<a href="https://github.com/shreyasbarve"><img src="https://img.shields.io/badge/GITHUB-%230077B5.svg?&style=for-the-badge&color=black&logo=github&logoColor=white" height=30></a>
 <br />
 
 ### Languages and Tools:
@@ -43,9 +41,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyasbarve&show_icons=true&count_private=true" align="center"/>
+</details>
 
-  <img align="left" alt="shreyasbarve's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shreyasbarve&show_icons=true&hide_border=true" />
-
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbarve" align="center"/>
 </details>
 
 
