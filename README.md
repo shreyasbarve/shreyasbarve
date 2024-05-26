@@ -1,12 +1,11 @@
 ### Hello! My name is [Shreyas](https://shreyasbarve.github.io/) 👋
 
-## I am a student at Shri Ramdeobaba College of Engineering and Management, Nagpur, India
+## I am a Software Engineer at Persistent System Limited, Nagpur, India
 
-- 🔭 I’m currently working on my dream.
-- 🌱 I’m currently learning everything I can 🤣.
+- 🔭 I’m currently working on improving my skills in Salesforce and Web Development.
+- 🏫 I'm also exploring DevOps.
 - 👯 I’m looking to collaborate on any interesting project and any new idea that anyone wants to implement.
-- 💬 Ask me about React, React Native, Python, Java, HTML, CSS, JS and Japanese 😉.
-- 🥅 Everyday Goal: Become a better person than before.
+- 💬 Ask me about Salesforce, React, React Native, Python, Java, HTML, CSS, JS and Japanese 😉.
 - ⚡ Fun fact: I like Anime, Manga, Manhwa, Singing, Gaming. I am also learning Japanese and like to explore new cultures.
 - 🥇 Achievement: I was the topper in `Introduction to Japanese Language and Culture` exam hosted by NPTEL(IIT Kanpur) held in NOV-19.
 - 💻 Projects:
