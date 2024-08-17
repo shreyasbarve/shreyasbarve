@@ -40,16 +40,8 @@
 
 ---
 
-<div style="display: flex">
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyasbarve&show_icons=true&count_private=true&theme=github_dark" align="center"/>
-  </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <h3>Languages Used</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbarve&theme=github_dark&layout=compact" align="center"/>
-  </div>
-</div>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=shreyasbarve&show_icons=true&count_private=true&theme=github_dark)](https://github.com/shreyasbarve/github-readme-stats)
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbarve&theme=github_dark&layout=compact)](https://github.com/shreyasbarve/github-readme-stats)
 
 
