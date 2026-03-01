@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-<a href="https://shreyasbarve.github.io/"><img src="https://img.shields.io/badge/WEBSITE-%230077B5.svg?&style=for-the-badge&color=blueviolet&logo=aiohttp&logoColor=white" height=30></a>
+<a href="https://shreyasbarve.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-%230077B5.svg?&style=for-the-badge&color=blueviolet&logo=aiohttp&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/shreyasbarve13"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&color=blue&logo=linkedin&logoColor=white" height=30></a>
 <a href="https://github.com/shreyasbarve"><img src="https://img.shields.io/badge/GITHUB-%230077B5.svg?&style=for-the-badge&color=black&logo=github&logoColor=white" height=30></a>
 <a href="https://www.salesforce.com/trailblazer/shreyasbarve"><img src="https://img.shields.io/badge/TRAILHEAD-%230077B5.svg?&style=for-the-badge&color=blue&logo=Salesforce&logoColor=white" height=30></a>
